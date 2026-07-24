@@ -1,0 +1,5 @@
+output_hystorical_api/
+.venv/
+*.sqlite
+test/
+tests/

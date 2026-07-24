@@ -1,0 +1,13 @@
+[project]
+name = "pridobitev-napovedi-openmeteo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "openmeteo-requests>=1.7.5",
+    "pandas>=3.0.5",
+    "requests>=2.34.2",
+    "requests-cache>=1.3.3",
+    "retry-requests>=2.0.0",
+]

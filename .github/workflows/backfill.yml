@@ -1,0 +1,52 @@
+name: Open-Meteo backfill
+
+# Ročni zagon - kliknite "Run workflow" v zavihku Actions na GitHubu
+on:
+  workflow_dispatch:
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    # GitHub Actions dovoli max 360 min/job - pustimo si varno rezervo
+    timeout-minutes: 340
+    # Brez tega workflow privzeto dobi samo bralni dostop do repozitorija -
+    # za samodejni "commit nazaj" rabimo pisalni dostop.
+    permissions:
+      contents: write
+
+    steps:
+      - name: Prevzemi kodo iz repozitorija
+        uses: actions/checkout@v4
+
+      - name: Namesti Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Namesti odvisnosti
+        run: pip install requests pandas
+
+      - name: Poženi backfill
+        run: python pridobi_napovedi_openmeteo.py
+        # AUTO_CONFIRM ni treba nastavljati - skripta sama zazna, da ni
+        # interaktivnega vnosa (GitHub Actions runner nima TTY) in preskoči
+        # ročno potrditev po preflight koraku.
+
+      - name: Naloži rezultate (CSV + checkpointi) kot artifact
+        if: always()   # naloži tudi, če je zmanjkalo dnevne kvote sredi teka
+        uses: actions/upload-artifact@v4
+        with:
+          name: openmeteo-output
+          path: output/
+
+      - name: Commitaj checkpoint in CSV-je nazaj v repo
+        if: always()   # tudi ob prekinitvi zaradi dnevne kvote - da naslednji zagon nadaljuje pravilno
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/
+          # Če ni sprememb (npr. že vse pridobljeno), commit preskočimo namesto da javimo napako
+          git diff --staged --quiet && echo "Ni sprememb - preskakujem commit." || \
+            git commit -m "Backfill checkpoint $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
+

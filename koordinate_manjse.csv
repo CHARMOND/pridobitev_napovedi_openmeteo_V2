@@ -1,0 +1,15 @@
+﻿WPointID;longitude;latitude;Name;UsedInOSE;Notes;PostCode;Name_old
+63;14.070300;46.431500;Jesenice;TRUE;;42700;Jesenice
+76;14.201700;46.342600;Gorica;TRUE;;42400;Gorica (Radovljica)
+106;14.397600;46.253800;Britof;TRUE;;40000;Britof (Kranj)
+122;14.464600;46.029200;Ljubljna-Zahod;TRUE;;10000;Ljubljana - Vič
+127;14.528400;46.119400;Ljubljna-Črnuče;TRUE;;12310;Ljubljana - Črnuče
+129;14.529200;46.029500;Ljubljana-Rudnik;TRUE;;10000;Ljubljana - Rudnik
+177;14.853200;45.625400;Dolga vas;TRUE;;13300;Dolga vas
+194;15.046300;46.525300;Slovenj Gradec;TRUE;;23800;Gmajna (Slovenj Gradec)
+236;15.174300;45.805300;Novo mesto;TRUE;;80000;Novo mesto
+325;15.633400;46.568500;Maribor;TRUE;;20000;Maribor - Center
+391;16.092600;46.700000;Murska Sobota;TRUE;;90000;
+422;15.225900;46.236600;Celje-Medlog;FALSE;exSODO napoved;30000;Celje
+425;15.513100;45.939900;Krško;FALSE;exSODO napoved;82700;Krško
+426;13.724600;45.548100;Koper;FALSE;exSODO napoved;60000;Koper
