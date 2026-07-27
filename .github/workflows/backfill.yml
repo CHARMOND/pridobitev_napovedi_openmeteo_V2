@@ -3,8 +3,8 @@ name: Open-Meteo backfill
 # Sprozi se avtomatsko vsakih 6 ur, ali rocno prek "Run workflow" v zavihku Actions
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 */6 * * *'
+  # schedule:
+  #   - cron: '0 */6 * * *'
 
 concurrency:
   group: openmeteo-backfill
