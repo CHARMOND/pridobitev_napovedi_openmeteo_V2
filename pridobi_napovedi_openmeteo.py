@@ -69,15 +69,15 @@ END_DATE = (datetime.now(timezone.utc) - timedelta(days=1)).strftime("%Y-%m-%d")
 # Unicode normalizacijo imen datotek (š/č/ž) med Windows in GitHub Actions
 # (Ubuntu). Preimenujte tudi dejansko datoteko v repozitoriju v "koordinate.csv",
 # ali spremenite spodnjo vrstico nazaj na svoje dejansko ime.
-# STATIONS_CSV = "koordinate_manjse.csv"  # CSV s podpičjem: UniqID;Longitude;Latitude # za 14 lokacij
-STATIONS_CSV = "koordinate_kvadratov.csv"  # CSV s podpičjem: WPointID;longitude;latitude
-OUTPUT_DIR = "output" # za 14 lokacij: output1
+STATIONS_CSV = "koordinate_manjse.csv"  # CSV s podpičjem: UniqID;Longitude;Latitude # za 14 lokacij
+# STATIONS_CSV = "koordinate_kvadratov.csv"  # CSV s podpičjem: WPointID;longitude;latitude
+OUTPUT_DIR = "output1" # za 14 lokacij: output1
 
 # Če je postaj veliko (100+), manjši bloki + daljši timeout preprečujejo, da bi
 # ena zahteva na strežniku trajala predolgo (glej diagnozo o "1 concurrent
 # request / queue 6" iz prejšnjih zagonov). Če je postaj malo (<30), to sploh
 # ni pomembno - vse gredo v en blok.s
-LOCATION_BATCH_SIZE = 150 # za 14 lokacij: 50
+LOCATION_BATCH_SIZE = 50 # za 14 lokacij: 50
 TIMEOUT_SEC = 120
 
 REQUEST_PAUSE_SEC = 2.0

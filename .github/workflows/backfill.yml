@@ -43,7 +43,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: openmeteo-output
-          path: output/
+          path: output1/
 
       - name: Commitaj checkpoint in CSV-je nazaj v repo
         if: always()   # tudi ob prekinitvi zaradi dnevne kvote - da naslednji zagon nadaljuje pravilno
