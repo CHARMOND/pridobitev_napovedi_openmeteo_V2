@@ -52,13 +52,14 @@ MODELS = {
     },
     "icon_d2": {
         "model_param": "icon_d2",
-        "run_hours": [0, 6, 9, 12, 15, 18, 21],
-        "start_date": "2026-04-01",
+        "run_hours": [0, 3, 6, 9, 12, 15, 18, 21],
+        "start_date": "2026-04-02",
+
     },
     "icon_eu": {
         "model_param": "icon_eu",
         "run_hours": [0, 3, 6, 9, 12, 15, 18, 21],
-        "start_date": "2026-04-01",
+        "start_date": "2026-04-02",
     },
 }
 
@@ -68,14 +69,15 @@ END_DATE = (datetime.now(timezone.utc) - timedelta(days=1)).strftime("%Y-%m-%d")
 # Unicode normalizacijo imen datotek (š/č/ž) med Windows in GitHub Actions
 # (Ubuntu). Preimenujte tudi dejansko datoteko v repozitoriju v "koordinate.csv",
 # ali spremenite spodnjo vrstico nazaj na svoje dejansko ime.
-STATIONS_CSV = "koordinate_manjse.csv"  # CSV s podpičjem: UniqID;Longitude;Latitude
-OUTPUT_DIR = "output"
+# STATIONS_CSV = "koordinate_manjse.csv"  # CSV s podpičjem: UniqID;Longitude;Latitude # za 14 lokacij
+STATIONS_CSV = "koordinate_kvadratov.csv"  # CSV s podpičjem: WPointID;longitude;latitude
+OUTPUT_DIR = "output" # za 14 lokacij: output1
 
 # Če je postaj veliko (100+), manjši bloki + daljši timeout preprečujejo, da bi
 # ena zahteva na strežniku trajala predolgo (glej diagnozo o "1 concurrent
 # request / queue 6" iz prejšnjih zagonov). Če je postaj malo (<30), to sploh
 # ni pomembno - vse gredo v en blok.s
-LOCATION_BATCH_SIZE = 50
+LOCATION_BATCH_SIZE = 150 # za 14 lokacij: 50
 TIMEOUT_SEC = 120
 
 REQUEST_PAUSE_SEC = 2.0
@@ -316,12 +318,8 @@ def process_one_day(session, model_key, cfg, day, station_batches):
             wid_list = [s["WPointID"] for s in batch]
 
             data = fetch_run(session, lat_list, lon_list, cfg["model_param"], run_dt)
-            data = fetch_run(session, lat_list, lon_list, cfg["model_param"], run_dt)
 
-            if data == "FATAL_ERROR":
-                return "FATAL", day_rows
-            if data == "QUOTA_EXCEEDED":
-                return "QUOTA", day_rows
+
             if data == "FATAL_ERROR":
                 return "FATAL", day_rows
             if data == "QUOTA_EXCEEDED":

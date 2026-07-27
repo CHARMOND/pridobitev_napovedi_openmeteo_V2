@@ -1,435 +1,435 @@
-UniqID,Longitude,Latitude,Name,UsedInOSE,Notes,PostCode,Name_old
-1,14.850900,45.465900,Petrina,True,,1336.0,Petrina
-2,15.251000,45.461800,Vinica,True,,8344.0,Vinica
-3,15.276200,45.591000,Krasinec,True,,8332.0,Krasinec
-4,15.678500,45.894000,Harmica,True,,8257.0,Dobova
-5,15.679300,46.059000,Kunšperk,True,,3256.0,Bistrica ob Sotli
-6,15.600800,46.126000,Imeno,True,,3254.0,Imeno
-7,16.072200,46.403200,Cvetkovci,True,,2273.0,Cvetkovci
-8,16.161000,46.404700,Ormož,True,,2270.0,Ormož
-9,16.263000,46.417100,Godeninci ,True,,2277.0,Godeninci
-10,15.993500,46.750800,Gerlinci ,True,,9216.0,Gerlinci
-11,16.047700,46.710600,Strukovci,True,,9216.0,Skakovci
-12,15.671700,46.696700,Ceršak,True,,2215.0,Ceršak
-13,15.740300,46.692900,Sladki Vrh,True,,2214.0,Sladki Vrh
-14,14.999100,46.600600,Vič (Dravograd),True,,2370.0,Vič (Dravograd)
-15,13.518000,45.990500,Medana,True,,5212.0,Medana
-16,13.650100,45.966000,Solkan,True,,5000.0,Solkan
-17,13.649500,45.930300,Šempeter pri Gorici,True,,5290.0,Šempeter pri Gorici
-18,13.588800,45.854400,Opatje Selo,True,,5291.0,Opatje selo
-19,13.849400,45.708400,Sežana,True,,6210.0,Sežana (zahod)
-20,13.425100,46.244500,Logje,True,,5223.0,Logje
-21,13.552300,46.336200,Bovec,True,,5230.0,Bovec
-22,13.554700,46.246200,Sužid,True,,5222.0,Kobarid
-23,13.561700,45.976400,Gornje Cerovo,True,,5211.0,Dolnje Cervo
-24,13.573200,45.526600,Piran,True,,6330.0,Piran
-25,13.619500,46.247000,Koseč,True,,5222.0,Koseč
-26,13.624000,46.067100,Gorenje Polje,True,,5210.0,Anhovo
-27,13.628400,45.887200,Merljaki,True,,5291.0,Bilje
-28,13.629500,45.842300,Kostanjevica na Krasu,True,,5296.0,Kostanjevica na Krasu
-29,13.637200,45.527400,Jagodje,True,,6310.0,Jagodnje
-30,13.638300,45.482400,Paracag,True,,6333.0,Parecag
-31,13.686500,46.157900,Volčanski Ruti,True,,5220.0,Volčanski Ruti
-32,13.690700,45.978000,Ravnica,True,,5251.0,Ravnica
-33,13.692800,45.888000,Gradišče nad Prvačino,True,,5297.0,Arčoni
-34,13.701200,45.528200,Semedela,True,,6000.0,Koper
-35,13.751200,46.158600,Modrej,True,,5216.0,Most na Soči
-36,13.755200,45.978700,Trnovo,True,,5252.0,Voglarji
-37,13.757300,45.888700,Zalošče,True,,,
-38,13.759300,45.798800,Volčji Grad,True,,6223.0,Volčji Grad
-39,13.764200,45.573900,Na Logu,True,,6280.0,Ankaran
-40,13.765200,45.528900,Škocjan,True,,6000.0,Triban
-41,13.809100,46.474100,Log,True,,4280.0,Kranjska Gora
-42,13.821700,45.889400,Potoče,True,,5263.0,Potoče
-43,13.823600,45.799400,Hruševica,True,,6222.0,Hruševica
-44,13.824500,45.754500,Dutovlje,True,,6221.0,Dutovlje
-45,13.828300,45.574500,Škofije,True,,6281.0,Tinjan
-46,13.829200,45.529500,Sveti Anton,True,,6276.0,Sv. Anton
-47,13.886100,45.890000,Ajdovščina (letališče),True,,5270.0,Ajdovščina
-48,13.887000,45.845100,Gaberje,True,,6222.0,Gaberje (Vipava)
-49,13.888800,45.755100,Utovlje,True,,6210.0,Utovlje
-50,13.889700,45.710100,Sežana,True,,6210.0,Sežana (vzhod)
-51,13.942800,46.295500,Bohinjska Češnjica,True,,4267.0,Bohinjska Češnjica
-52,13.951300,45.845700,Vipava,True,,5271.0,Vipava
-53,13.952200,45.800700,Podraga,True,,5272.0,Podnanos
-54,13.953900,45.710700,Brestovica pri Povirju,True,,6210.0,Brestovica pri Povirju
-55,13.955500,45.620800,Rodik,True,,6240.0,Kozina
-56,14.005300,46.431000,Zgornje Gorje,True,,4247.0,Zgornje Gorje
-57,14.010100,46.161100,Gorenji Novaki,True,,5282.0,Gorenji Novaki
-58,14.013300,45.981200,Čekovnik,True,,5280.0,Čekovnik
-59,14.014100,45.936200,Zadlog ,True,,5274.0,Zadlog
-60,14.014900,45.891200,Malo Polje,True,,5273.0,Col
-61,14.018100,45.711300,Gabrče,True,,6224.0,Senožeče
-62,14.020400,45.576300,Hotična,True,,6242.0,Povžane
-63,14.070300,46.431500,Jesenice,True,,4270.0,Jesenice
-64,14.071100,46.386600,Mavkuž,True,,4247.0,Spodnje gorje
-65,14.077800,45.981700,Jelični vrh,True,,5280.0,Jelični Vrh
-66,14.083800,45.621900,Kozjane,True,,6243.0,Kozjane
-67,14.085200,45.531900,Obrov,True,,6243.0,Obrov
-68,14.136100,46.387100,Vrba,True,,4274.0,Žirovnica
-69,14.136800,46.342100,Bodešče,True,,4260.0,Ribno (Bled)
-70,14.140300,46.117200,Gorenja vas,True,,4224.0,Gorenja vas (Škofja Loka)
-71,14.145800,45.757300,Orehek,True,,6258.0,Orehek (Postojna)
-72,14.147200,45.667300,Kal,True,,6257.0,Neverke
-73,14.148500,45.577400,Pregarje,True,,6243.0,Pregarje
-74,14.149200,45.532400,Podgrad,True,,6244.0,Podgrad
-75,14.201100,46.387500,Begunje na Gorenjskem ,True,,4275.0,Begunje na Gorenjskem
-76,14.201700,46.342600,Gorica,True,,4240.0,Gorica (Radovljica)
-77,14.202400,46.297600,Kropa,True,,4245.0,Kropa (Brezovica)
-78,14.203700,46.207600,Golica,True,,4227.0,Dolenja vas (Selca)
-79,14.204300,46.162600,Javorje,True,,4224.0,Javorje (Poljane nad Škofjo Loko)
-80,14.205000,46.117600,Hotovlja,True,,4223.0,Visoko pri Poljanah (Poljane nad Škofjo Loko)
-81,14.207500,45.937700,Logatec,True,,1370.0,Logatec
-82,14.208200,45.892700,Kalce,True,,1370.0,Kalce
-83,14.210100,45.757800,Stara vas,True,,6230.0,Stara vas (Postojna)
-84,14.210700,45.712800,Selce,True,,6257.0,Slavina
-85,14.211300,45.667800,Parje/Pivka,True,,6257.0,Pivka
-86,14.212600,45.577800,Zarečje,True,,6250.0,Zarečje
-87,14.266700,46.343000,Hudo,True,,4290.0,Hudo (Tržič)
-88,14.267300,46.298000,Podbrezje,True,,4202.0,Podbrezje
-89,14.269100,46.163100,Gabrovo,True,,4220.0,Gabrovo (Škofja Loka)
-90,14.270800,46.028100,Samotorica,True,,1354.0,Horjul
-91,14.271400,45.983100,Stara Vrhnika,True,,1360.0,Stara Vrhnika (Vrhnika)
-92,14.272000,45.938100,Vrhnika-NOB spomenik,True,,1360.0,Vrhnika
-93,14.276100,45.623200,Kortinice,True,,6253.0,Koritnice
-94,14.277200,45.533300,Gornji Zemon,True,,6250.0,Jablanice
-95,14.331600,46.343400,Gozd,True,,4294.0,Gozd (Križe)
-96,14.332200,46.298400,Letenice,True,,4204.0,Golnik
-97,14.332700,46.253400,Okroglo,True,,4202.0,Kranj
-98,14.333300,46.208400,Spodnje Bitnje,True,,4209.0,Spodnje Bitnje
-99,14.333800,46.163500,Suha,True,,4220.0,Škofja Loka
-100,14.335400,46.028500,Podolnica,True,,1354.0,Brezje pri Dobrovi
-101,14.336000,45.983500,Blatna Brezovica,True,,1360.0,Blatna Brezovica
-102,14.336500,45.938500,Dol pri Borovnici,True,,1353.0,Borovnica
-103,14.337000,45.893500,Pokojišče,True,,1353.0,Pokojišče (Brezovica)
-104,14.338100,45.803600,Podskrajnik,True,,1380.0,Cerknica
-105,14.397100,46.298800,Zgornja Bela,True,,4205.0,Preddvor
-106,14.397600,46.253800,Britof,True,,4000.0,Britof (Kranj)
-107,14.398100,46.208800,Prebačevo,True,,4000.0,Prebačevo (Kranj)
-108,14.398500,46.163800,Podreča,True,,4211.0,Podreča (Medvode)
-109,14.399000,46.118800,Žlebe,True,,1215.0,Žlebe (Medvode)
-110,14.399500,46.073800,Gabrje,True,,1356.0,Gabrje (Dobrova)
-111,14.400000,46.028900,Brezovica pri Ljubljani,True,,1351.0,Lukovica pri Brezovici
-112,14.400500,45.983900,Notranje Gorice,True,,1357.0,Notranje Gorice
-113,14.401000,45.938900,Kamnik pod Krimom,True,,1352.0,Preserje
-114,14.402400,45.803900,Topol pri Begunjah,True,,1382.0,Topol pri Begunjah (begunje pri Cerknici)
-115,14.402900,45.758900,Žarovnica,True,,1384.0,Žerovnica (Cerknica)
-116,14.462000,46.299100,Kokra(Potoče),True,,4205.0,Preddvor (Kranj)
-117,14.462400,46.254100,Praprotna Polica,True,,4207.0,Češnjevek (Cerklje na Gorenjskem)
-118,14.462800,46.209100,Voglje,True,,4208.0,Letališče Jožeta Pučnika Ljubljana
-119,14.463300,46.164100,Smlednik,True,,1216.0,Smlednik
-120,14.463700,46.119100,Tacen,True,,1211.0,Zgornje Gameljne
-121,14.464200,46.074200,Ljubljana-Koseze,True,,1000.0,Ljubljana - Koseze
-122,14.464600,46.029200,Ljubljna-Zahod,True,,1000.0,Ljubljana - Vič
-123,14.467600,45.714300,Stari trg pri Ložu,True,,1386.0,Stari trg pri Ložu
-124,14.527300,46.254400,Podženik,True,,4207.0,Poženik (Cerklje na Gorenjskem)
-125,14.527600,46.209400,Potok pri Komendi,True,,1218.0,Komenda
-126,14.528000,46.164400,Šinkov Turn,True,,1217.0,Šinkov Turn (Vodice)
-127,14.528400,46.119400,Ljubljna-Črnuče,True,,1231.0,Ljubljana - Črnuče
-128,14.528800,46.074400,Ljubljana-Žale,True,,1000.0,Ljubljana - Bežigrad
-129,14.529200,46.029500,Ljubljana-Rudnik,True,,1000.0,Ljubljana - Rudnik
-130,14.529600,45.984500,Iška Loka,True,,1292.0,Ig
-131,14.529900,45.939500,Ig-Draga,True,,1292.0,Podgozd (Ig)
-132,14.531400,45.759500,Topol pri Begunjah,True,,1385.0,Studenec na Blokah
-133,14.592100,46.254600,Stolnik,True,,1242.0,Stolnik (Stahovica)
-134,14.592400,46.209700,Podgorje,True,,1241.0,Podgorje (Kamnik)
-135,14.592800,46.164700,Radomlje,True,,1235.0,Presarje pri Radomljah
-136,14.593100,46.119700,Dragomelj,True,,1230.0,Dragomelj
-137,14.593400,46.074700,Ljubljana-Polje,True,,1260.0,Snebrje
-138,14.593800,46.029700,Ljubljna-Dobrunje,True,,1261.0,Ljubljana - Dobrunje
-139,14.594100,45.984700,Mali Vrh pri Šmarju,True,,1293.0,Mali Vrh pri Šmarju
-140,14.594400,45.939700,Vino,True,,1291.0,Vino (Škofljica)
-141,14.595700,45.759800,Janeži,True,,1317.0,Janeži (Sodražica)
-142,14.596000,45.714800,Mali Log,True,,1318.0,Retje
-143,14.657500,46.164900,"Prevoje pri Šentvidu, ",True,,1225.0,Prevoje pri Šentvidu (Lukovica)
-144,14.657800,46.119900,Dobovlje,True,,1230.0,Sv. Trojica (Domžale)
-145,14.658100,46.074900,Podgrad,True,,1000.0,Dol pri Ljubljani
-146,14.658600,45.984900,Dobje,True,,1290.0,Dobje (Grosuplje)
-147,14.658900,45.939900,Malo Mlačevo,True,,1290.0,Grosuplje
-148,14.659400,45.850000,Ponikve,True,,1312.0,Ponikve (Velike Lašče)
-149,14.659700,45.805000,Zlati Rep,True,,1316.0,Zlati rep
-150,14.660000,45.760000,Sinovica,True,,1316.0,Sodražica
-151,14.721400,46.345000,Podveža,True,,3334.0,Podveža (Luče)
-152,14.721600,46.300000,Podvolovljek,True,,3334.0,Podvolovjek
-153,14.721800,46.255000,Bela Peč,True,,1317.0,Bela Peč (Kamnik)
-154,14.722000,46.210000,Sidol,True,,1219.0,Sidol (Laze v Tuhinju)
-155,14.722300,46.165100,Vinje pri Moravčah,True,,1251.0,Gradišče pri Lukovici
-156,14.722500,46.120100,Zgornji Tuštanj,True,,1251.0,Zgornji Tuštanj (Moravče)
-157,14.722700,46.075100,Zgornja Jevnica,True,,1281.0,Zgornja Jevnica (Kresnice)
-158,14.723200,45.985100,Blečji Vrh,True,,1290.0,Blečji Vrh (Grosuplje)
-159,14.723400,45.940100,Velika Loka,True,,1290.0,Velika Loka (Grosuplje)
-160,14.723800,45.850100,Mala vas,True,,1312.0,Mala vas
-161,14.724300,45.760200,Dolenji Lazi,True,,1310.0,Breg pri Ribnici
-162,14.724500,45.715200,Zadolje,True,,1310.0,Prigorica
-163,14.786300,46.345100,Savina,True,,3333.0,Savina (Ljubno ob Savinji)
-164,14.786500,46.300100,Lenart pri Gornjem Gradu,True,,3342.0,Lenart pri Gornjem gradu
-165,14.786800,46.210200,Liplje,True,,1219.0,Liplje (Laze v Tuhinju)
-166,14.787200,46.120200,Dešen,True,,1281.0,Dešen (Kresnice)
-167,14.787900,45.940200,Malo Hudo,True,,1295.0,Ivančna Gorica
-168,14.788000,45.895300,Potok pri Muljavi,True,,1295.0,Muljava
-169,14.851300,46.345200,Ljubno ob Savinji,True,,3333.0,Ljubno ob Savinji
-170,14.851400,46.300200,Bočna,True,,3342.0,Otok (Gornji Grad)
-171,14.851600,46.210300,Špitalič,True,,1221.0,Špitalič (Motnik)
-172,14.852000,46.075300,Ponoviče,True,,1282.0,Litija
-173,14.852100,46.030300,Bogenšperk,True,,1275.0,Bogenšperk
-174,14.852300,45.940400,Rodehova vas,True,,1296.0,Radohova vas
-175,14.852600,45.850400,Drašča vas,True,,1303.0,Zagradec
-176,14.853000,45.670400,Gorenje ,True,,1332.0,Kočevje
-177,14.853200,45.625400,Dolga vas,True,,1330.0,Dolga vas
-178,14.915900,46.570200,Suhi Vrh,True,,2391.0,Suhi Vrh (ravne na Koroškem)
-179,14.916000,46.525200,Kot pri Prevaljah,True,,2391.0,Kot pri Prevaljah
-180,14.916200,46.345300,Dol -Suha,True,,3332.0,Dol - Suha (Rečica pri Savinji)
-181,14.916300,46.300300,Pusto Polje,True,,3331.0,Spodnje Podbrežje (Rečica pri Savinji)
-182,14.916500,46.165400,Orehovica,True,,1411.0,Orehovica (Izlake)
-183,14.916800,45.940400,Gornje Prapreče,True,,8213.0,Veliki Gaber
-184,14.917000,45.850400,Dolnji Križ,True,,8260.0,Prapreče (Žužemberk)
-185,14.981100,46.525300,Kotlje,True,,2394.0,Kotlje (Ravne na Koroškem)
-186,14.981200,46.345300,Ljubija,True,,3330.0,Ljubija (Mozirje)
-187,14.981200,46.255400,Stopnik,True,,3305.0,Prekopa (Vransko)
-188,14.981300,46.120400,Družina,True,,1410.0,Zagorje ob Savi
-189,14.981300,45.985400,Tlaka,True,,1274.0,Tlaka (Gabrovka)
-190,14.981300,45.940400,Škovec,True,,8212.0,Škovec (Velika Loka)
-191,14.981300,45.895500,Grmada,True,,8210.0,Grmada (Trebnje)
-192,15.046400,46.615200,Ojstrica,True,,2370.0,Ojstrica (Dravograd)
-193,15.046300,46.570200,Otniški Vrh,True,,2373.0,Šentjanž pri Dravogradu
-194,15.046300,46.525300,Slovenj Gradec,True,,2380.0,Gmajna (Slovenj Gradec)
-195,15.046300,46.480300,Raduše,True,,2381.0,Raduše (Podgorje pri Slovenj Gradcu)
-196,15.046200,46.435300,Ravne,True,,3325.0,Ravne (Šoštanj)
-197,15.046200,46.390300,Šoštanj,True,,3325.0,Šoštanj
-198,15.046200,46.345300,Veliki Vrh,True,,3327.0,Veliki Vrh (Šmartno ob Paki)
-199,15.046100,46.300300,Male Braslovče,True,,3314.0,Male Braslovče
-200,15.046100,46.255300,Gomilsko,True,,3303.0,Gomilsko
-201,15.046000,46.165400,Trbovlje,True,,1420.0,Trbovlje
-202,15.046000,46.120400,Škofja Riža,True,,1423.0,Škofja Riža (Trbovlje)
-203,15.045900,46.030400,Dole pri Litiji,True,,1273.0,Dole pri Litiji
-204,15.045800,45.940400,Brezovica pri Mirni,True,,8233.0,Brezovica pri Mirni
-205,15.045800,45.895400,Dolenje Ponikve,True,,8210.0,Dolenje Ponikve
-206,15.045600,45.760500,Meniška vas,True,,8350.0,Dolenjske Toplice (Meniška vas)
-207,15.111700,46.615200,Gortina,True,,2366.0,Vrata (Radlje ob Dravi)
-208,15.111500,46.525200,Gradišče ,True,,2380.0,Gradišče (Slovenj Gradec)
-209,15.111400,46.480200,Šmartno pri Slovenj Gradcu,True,,2383.0,Šmartno pri Slovenj Gradcu
-210,15.111300,46.435200,Graška Gora,True,,2381.0,Graška Gora
-211,15.111200,46.390300,Hrastovec,True,,3320.0,Hrastovec (Velenje)
-212,15.111100,46.345300,Kavče,True,,33320.0,Kavče (Velenje)
-213,15.111000,46.300300,Založe ,True,,3313.0,Založe
-214,15.110900,46.255300,Šempeter v Savinjski Dolina,True,,3311.0,Šempeter v Savinjski Dolini
-215,15.110700,46.165300,Kal,True,,1431.0,Kal (Hrastnik)
-216,15.110600,46.120300,Krnice,True,,1430.0,Podkraj (Hrastnik)
-217,15.110600,46.075400,Zagrad,True,,1433.0,Zagrad (Radeče)
-218,15.110400,45.985400,Hrastno,True,,8232.0,Šentrupert
-219,15.110200,45.895400,Radna vas,True,,8231.0,Radna vas
-220,15.110100,45.850400,Veliki Kal,True,,8216.0,Šranga
-221,15.110000,45.805400,Podgora,True,,8351.0,Letališče Prečna (Novo mesto)
-222,15.109900,45.760400,Gornje Mraščevo,True,,8000.0,Gorenje Mraševo
-223,15.177000,46.615100,Muta,True,,2366.0,Muta
-224,15.176800,46.570100,Sveti Primož na Pohorju,True,,2367.0,Sveti Primož na Pohorju
-225,15.176500,46.480100,Razborca,True,,2382.0,Razborca (Slovenj Gradec)
-226,15.176400,46.435200,Završe,True,,2382.0,Šentilj pod Turjakom
-227,15.176100,46.345200,Vinska Gora,True,,3320.0,Vinska Gora (Velenje)
-228,15.175900,46.300200,Pernovo,True,,3310.0,Studence (Žalec)
-229,15.175800,46.255200,Ložnica pri Žalcu,True,,3310.0,Žalec
-230,15.175500,46.165200,Zgornja Rečica,True,,3270.0,Huda Jama (Laško)
-231,15.175300,46.120300,Gore,True,,1431.0,Kopitnik (Hrastnik)
-232,15.175200,46.075300,Radeče,True,,1433.0,Zidani Most
-233,15.175100,46.030300,Srednik,True,,8297.0,Šentjanž
-234,15.174800,45.940300,Sveti Vrh,True,,8230.0,Mokronog (Sv. vrh)
-235,15.174500,45.850300,Golušnik,True,,8000.0,Ždinja vas
-236,15.174300,45.805300,Novo mesto,True,,8000.0,Novo mesto
-237,15.174200,45.760300,Rakovnik pri Birčni vasi,True,,8000.0,Stranska vas
-238,15.173900,45.670400,Preloge,True,,8333.0,Semič
-239,15.173600,45.580400,Dolnja Paka ,True,,8340.0,Črnomelj
-240,15.173500,45.535400,Golek,True,,8343.0,Dragatuš
-241,15.242200,46.615000,Spodnja Vižinga,True,,2360.0,Radlje ob Dravi
-242,15.241400,46.435000,Paka,True,,2382.0,Paka
-243,15.241000,46.345100,Zavrh nad Dobrno,True,,3204.0,Zavrh nad Dobrno
-244,15.240800,46.300100,Pepelno,True,,3201.0,Pepelno (Celje)
-245,15.240600,46.255100,Celje-Ostrožno,True,,3000.0,Celje
-246,15.240400,46.210100,Košnica pri Celju,True,,3000.0,Košnica pri Celju
-247,15.240200,46.165100,Jagoče,True,,3270.0,Laško
-248,15.239800,46.075200,Žirovnica,True,,1434.0,Žirovnica (Zidani Most)
-249,15.239600,46.030200,Mrtovec ,True,,8294.0,Vrhovo
-250,15.239300,45.940200,Otavnik,True,,8295.0,Otavnik (Mokronog)
-251,15.239100,45.895200,Radovlja,True,,8220.0,Radovlja (Šmarjeta)
-252,15.238900,45.850200,Dobovo,True,,8222.0,Lutrško selo (Otočec)
-253,15.238700,45.805200,Potov Vrh,True,,8000.0,Potov vrh
-254,15.238300,45.715200,Jugorje pri Metliki,True,,8331.0,Jugorje pri Metliki
-255,15.237700,45.580300,Zastava,True,,8340.0,Vranoviči
-256,15.306200,46.389900,Vitanje,True,,3205.0,Vitanje (Zreče)
-257,15.305700,46.299900,Ivenca,True,,3212.0,Višnja vas (Vojnik)
-258,15.305500,46.254900,Celje-Leskovec,True,,3202.0,Leskovec (Celje)
-259,15.305200,46.210000,Pečovje,True,,3220.0,Pečovje (Celje)
-260,15.305000,46.165000,Olešče,True,,3270.0,Olešče (Šetrupert)
-261,15.304700,46.120000,Gozdec,True,,3270.0,Gozdec (Rimske Toplice)
-262,15.304200,46.030000,Droženje,True,,8290.0,Sevnica
-263,15.304000,45.985000,Preska,True,,8294.0,Laze pri Boštanju
-264,15.303700,45.940000,Bučka,True,,8276.0,Dolenje Dole (Škocjan)
-265,15.303500,45.895000,Grmovlje,True,,8275.0,Dobruška vas
-266,15.303200,45.850100,Dolenji Maharovec,True,,8310.0,Dolenji Maharovec
-267,15.302300,45.670100,Grabrovec,True,,8330.0,Grabrovec
-268,15.302000,45.625100,Primostek,True,,8332.0,Primostek
-269,15.372200,46.524700,Lovrenc na Pohorju,True,,2344.0,Lovrenc na Pohorju
-270,15.371600,46.434700,Planina na Pohorju,True,,3214.0,Rogla
-271,15.371200,46.389700,Loška gora pri Zrečah,True,,3214.0,Loška Gora pri zrečah
-272,15.370900,46.344700,Čretvež,True,,3206.0,Čretvež (Zreče)
-273,15.370600,46.299700,Spodnje Slemene,True,,3222.0,Zgornje Slemene (Šentjur)
-274,15.370300,46.254800,Cerovec,True,,3230.0,Trnovec pri Dramljah
-275,15.370000,46.209800,Šentjur-Krajnčica,True,,3230.0,Šentjur
-276,15.369400,46.119800,Blatni Vrh,True,,3273.0,Blatni Vrh (Jurklošter)
-277,15.369100,46.074800,Prapretno,True,,3225.0,Prapretno (Sevnica)
-278,15.368500,45.984800,Ponikve pri Studencu,True,,8293.0,Blanca
-279,15.368200,45.939800,Celine,True,,8274.0,Raka
-280,15.367900,45.894900,Gmajna,True,,8274.0,Mali Koren
-281,15.367600,45.849900,Groblje pri Preklopi,True,,8310.0,Gornja Prekopa
-282,15.366400,45.669900,Drašči,True,,8330.0,Drašiči
-283,15.436600,46.434500,Kot na Pohorju,True,,2317.0,Kot na Pohorju
-284,15.436300,46.389500,Oplotnica,True,,2317.0,Oplotnica (Zreče)
-285,15.435900,46.344500,Slovenske Konjice,True,,3210.0,Slovenske Konjice
-286,15.435500,46.299500,Kraberk,True,,3215.0,Škedenj (Slovenske Konjice)
-287,15.435200,46.254500,Ponikva,True,,3232.0,Ponikva (celje)
-288,15.434800,46.209500,Tratna pri Grobelnem ,True,,3231.0,Tratna pri Grobelnem (Šentjur)
-289,15.434500,46.164600,Voduce,True,,3263.0,Bukovje pri Slivnici
-290,15.434100,46.119600,Loke pri Planini,True,,3225.0,Loke pri Planini
-291,15.432300,45.894600,Pristava pri Leskovcu,True,,8273.0,Veliki Podlog
-292,15.432000,45.849600,Slinovce,True,,8311.0,Kostanjevica na Krki
-293,15.502900,46.569100,Spodnji Boč,True,,2352.0,Selnica ob Dravi
-294,15.502500,46.524200,Smolnik,True,,2342.0,Ruše
-295,15.501700,46.434200,Urh,True,,2316.0,Planina pod Šumnikom
-296,15.501300,46.389200,Gladomes,True,,2316.0,Gladomes
-297,15.500900,46.344200,Spodnje Grušovje,True,,3210.0,Tepanje
-298,15.500400,46.299200,Loče,True,,3215.0,Loče (Poljčane)
-299,15.500000,46.254300,Vodenovo,True,,3240.0,Vodenovo (Šmarje pri Jelšah)
-300,15.499600,46.209300,Cerovec pri Šmarju,True,,3240.0,Cerovec pri Šmarju
-301,15.499200,46.164300,Loka pri Žusmu,True,,3223.0,Babna Gora (Šentjur)
-302,15.498800,46.119300,Krivica,True,,3262.0,Brezovje pri Šentjurju
-303,15.498000,46.029300,Mali Kamen,True,,8281.0,Mali Kamen (Senovo)
-304,15.497600,45.984300,Sremič,True,,8270.0,Brestanica
-305,15.497200,45.939400,Žadovinek,True,,8273.0,Krško
-306,15.496800,45.894400,Hrastje pri Cerkljah,True,,8263.0,Črešnjice pri Cerkljah
-307,15.569100,46.658800,Grušena,True,,2201.0,Špičnik (Zgornja Kungota)
-308,15.568200,46.568800,Bresternica,True,Test,2354.0,
-309,15.567700,46.523900,Hrastje,True,,2341.0,
-310,15.566700,46.433900,Kalše,True,,2315.0,
-311,15.566300,46.388900,Slovenska Bistrica,True,,2310.0,Slovenska Bistrica
-312,15.565800,46.343900,Križni Vrh,True,,2318.0,
-313,15.565300,46.298900,Ljubično,True,,2319.0,
-314,15.564900,46.254000,Krtince,True,,3241.0,
-315,15.564400,46.209000,Koretno,True,,3240.0,
-316,15.564000,46.164000,Olimje,True,,3254.0,
-317,15.563500,46.119000,Verače,True,,3254.0,
-318,15.563000,46.074000,Kozje,True,,3260.0,
-319,15.562600,46.029000,Poklek pri Podsredi,True,,3257.0,
-320,15.562100,45.984000,Oklukova Gora,True,,8256.0,
-321,15.561700,45.939100,Trebež,True,,8253.0,
-322,15.561200,45.894100,Krška vas,True,,8262.0,Krška vas
-323,15.634400,46.658500,Stara Gora pri Šentilju,True,,2212.0,
-324,15.633900,46.613500,Kozjak nad Pesnico,True,,2201.0,
-325,15.633400,46.568500,Maribor,True,,2000.0,Maribor - Center
-326,15.632800,46.523500,Razvanje,True,,2000.0,Maribor - Razvanje
-327,15.632300,46.478500,Čreta,True,,2311.0,
-328,15.631800,46.433500,Požeg,True,,2327.0,
-329,15.631300,46.388600,Leskovec,True,,2331.0,
-330,15.630800,46.343600,Farovec,True,,2318.0,
-331,15.630200,46.298600,Hrastovec pod Bočem,True,,2319.0,
-332,15.629700,46.253600,Irje,True,,3250.0,
-333,15.629200,46.208600,Kamence,True,,3250.0,
-334,15.627700,46.073700,Dekmanca,True,,3256.0,
-335,15.626600,45.983700,Blatno,True,,8254.0,
-336,15.626100,45.938700,Globoko,True,,8254.0,
-337,15.625600,45.893700,Brežice-Čatež,True,,8250.0,Terme Čatež
-338,15.699200,46.613100,Pesniški Dvor,True,,2211.0,
-339,15.698600,46.568100,Vodole,True,,2229.0,
-340,15.698000,46.523100,Dogoše,True,,2000.0,Maribor - Dogoš
-341,15.697400,46.478100,Skoke,True,,2204.0,
-342,15.696900,46.433200,Podova,True,,2327.0,
-343,15.696300,46.388200,Pragersko,True,,2331.0,
-344,15.695700,46.343200,Savinsko,True,,2321.0,
-345,15.694600,46.253200,Strmec pri Svetem Florijanu,True,,3252.0,
-346,15.691700,46.028300,Bukovje,True,,8259.0,
-347,15.765100,46.657700,Spodnja Velka,True,,2213.0,
-348,15.764400,46.612700,Zgornje Partinje,True,,2223.0,
-349,15.763800,46.567700,Močna,True,,2231.0,
-350,15.763200,46.522700,Zgornja Korena,True,,2242.0,
-351,15.762500,46.477700,Starše,True,,2205.0,
-352,15.761900,46.432800,Prepolje,True,,2206.0,
-353,15.761300,46.387800,Pleterje,True,,2324.0,
-354,15.760700,46.342800,Slape,True,,2323.0,
-355,15.830400,46.657200,Sveta Ana v Slovenskih goricah,True,,2233.0,
-356,15.829700,46.612200,Zgornji Žerjavci,True,,2230.0,
-357,15.829000,46.567200,Lenart v Slovenskih Goricah,True,,2230.0,
-358,15.828300,46.522300,Selce,True,,2232.0,
-359,15.827700,46.477300,Grajenščak,True,,2250.0,
-360,15.827000,46.432300,Hajdoše,True,,2288.0,
-361,15.826300,46.387300,Sela,True,,2288.0,
-362,15.825600,46.342300,Dolena,True,,2323.0,
-363,15.896500,46.701700,Črnci,True,,9253.0,
-364,15.895700,46.656700,Lešane,True,,9253.0,
-365,15.895000,46.611700,Benedikt,True,,2234.0,
-366,15.894200,46.566700,Sv. Trojica v Slov. goricah,True,,2235.0,
-367,15.893500,46.521800,Trnovska vas,True,,2254.0,
-368,15.892800,46.476800,Zgornji Velovlek,True,,2250.0,
-369,15.892000,46.431800,Ptuj,True,,2250.0,Ptuj
-370,15.891300,46.386800,Pobrežje,True,,2284.0,
-371,15.890600,46.341800,Podlehnik,True,,2286.0,
-372,15.961100,46.656200,Police,True,,9250.0,
-373,15.960300,46.611200,Gornji Ivanjci,True,,9245.0,
-374,15.959500,46.566200,Cerkvenjak,True,,2236.0,
-375,15.957900,46.476300,Gabrnik,True,,2256.0,
-376,15.957100,46.431300,Dornava,True,,2252.0,
-377,15.956300,46.386300,Nova vas pri Markovcih,True,,2281.0,
-378,16.029800,46.835500,Sotina,True,,9262.0,Sotina
-379,16.028900,46.790500,Večleslavci,True,,9262.0,
-380,16.028100,46.745600,Krašči,True,,9261.0,
-381,16.026400,46.655600,Male ,True,,9252.0,
-382,16.025500,46.610600,Kapelski Vrh,True,,9252.0,
-383,16.024700,46.565600,Jamna,True,,9244.0,
-384,16.023800,46.520700,Mali Moravšček,True,,9244.0,
-385,16.023000,46.475700,Bratislavci,True,,2257.0,
-386,16.022100,46.430700,Zamušani,True,,2272.0,
-387,16.021300,46.385700,Muretinci,True,,2272.0,
-388,16.020500,46.340800,Cirkulane,True,,2282.0,
-389,16.094400,46.789900,Grad,True,,9264.0,
-390,16.093500,46.744900,Bodonci,True,,9265.0,
-391,16.092600,46.700000,Murska Sobota,True,,9000.0,
-392,16.091700,46.655000,Tišina,True,,9252.0,
-393,16.090800,46.610000,Vučja vas,True,,9242.0,
-394,16.089900,46.565000,Ključarovci pri Ljutomeru,True,,9242.0,
-395,16.089000,46.520100,Radoslavci,True,,9243.0,
-396,16.087200,46.430100,Senešci,True,,2274.0,
-397,16.159900,46.789300,Msčkovci,True,,9202.0,
-398,16.158000,46.699300,Murska Sobota,True,,9000.0,
-399,16.157000,46.654400,Murska Sobota,True,,9000.0,Murska Sobota
-400,16.156000,46.609400,Dokležovje,True,,9231.0,
-401,16.155100,46.564400,Veržej,True,,9241.0,
-402,16.154100,46.519400,Spodnji Kamenščak,True,,9240.0,
-403,16.152200,46.429500,Ormož,True,,2270.0,
-404,16.226400,46.833600,Markovci,True,,9204.0,
-405,16.225400,46.788600,Križevci,True,,9206.0,
-406,16.223300,46.698600,Moravske Toplice,True,,9226.0,
-407,16.222300,46.653700,Murska Sobota,True,,9000.0,
-408,16.221300,46.608700,Beltinci,True,,9231.0,
-409,16.220300,46.563700,Krapje,True,,9241.0,
-410,16.219300,46.518800,Ljutomer,True,,9240.0,
-411,16.289800,46.742900,Prosenjakovci,True,,9207.0,
-412,16.287600,46.653000,Gančani,True,,9231.0,
-413,16.286600,46.608000,Lipa,True,,9231.0,
-414,16.285500,46.563000,Črenšovci,True,,9232.0,
-415,16.284400,46.518000,Ljutomer,True,,9240.0,
-416,16.350700,46.562300,Velika Polana,True,,9225.0,
-417,16.415900,46.561500,Gornji Lakoš,True,,9220.0,
-418,16.481100,46.560600,Lendava,True,,9220.0,
-419,14.512400,46.065500,Ljubljana-Bežigrad,False,exSODO napoved,1000.0,Ljubljana
-420,13.624000,45.895600,Bilje,False,exSODO napoved,5292.0,Nova Gorica
-421,13.553800,46.331700,Bovec-Letališče,False,exSODO napoved,5230.0,Bovec
-422,15.225900,46.236600,Celje-Medlog,False,exSODO napoved,3000.0,Celje
-423,14.235500,45.553100,Ilirska Bistrica,False,exSODO napoved,6250.0,Ilirska Bistrica
-424,14.611900,46.225700,Kamnik,False,exSODO napoved,1241.0,Kamnik
-425,15.513100,45.939900,Krško,False,exSODO napoved,8270.0,Krško
-426,13.724600,45.548100,Koper,False,exSODO napoved,6000.0,Koper
-427,14.171800,46.362000,Letališče Lesce,False,exSODO napoved,4248.0,Letališče Lesce
-428,15.643900,46.240900,Rogaška Slatina,False,exSODO napoved,3250.0,Rogaška Slatina
-429,14.203200,45.907700,Logatec,False,exSODO napoved,1370.0,Logatec
-430,15.849200,46.419700,Ptuj,False,exSODO napoved,2250.0,Ptuj
-431,13.962400,45.847600,Vipava,False,exSODO napoved,5271.0,Vipava
-432,14.998600,46.132300,Zagorje ob Savi,False,exSODO napoved,1410.0,Zagorje
-433,15.681800,46.479700,Letališče Edvarda Rusjana Maribor,False,exSODO napoved,2312.0,Maribor
-434,16.191300,46.652100,Murska Sobota,False,exSODO napoved,9000.0,Murska Sobota
+WPointID;longitude;latitude;Name;UsedInOSE;Notes;PostCode;Name_old
+1;14.8509;45.4659;Petrina;True;;1336.0;Petrina
+2;15.251;45.4618;Vinica;True;;8344.0;Vinica
+3;15.2762;45.591;Krasinec;True;;8332.0;Krasinec
+4;15.6785;45.894;Harmica;True;;8257.0;Dobova
+5;15.6793;46.059;Kunšperk;True;;3256.0;Bistrica ob Sotli
+6;15.6008;46.126;Imeno;True;;3254.0;Imeno
+7;16.0722;46.4032;Cvetkovci;True;;2273.0;Cvetkovci
+8;16.161;46.4047;Ormož;True;;2270.0;Ormož
+9;16.263;46.4171;Godeninci ;True;;2277.0;Godeninci
+10;15.9935;46.7508;Gerlinci ;True;;9216.0;Gerlinci
+11;16.0477;46.7106;Strukovci;True;;9216.0;Skakovci
+12;15.6717;46.6967;Ceršak;True;;2215.0;Ceršak
+13;15.7403;46.6929;Sladki Vrh;True;;2214.0;Sladki Vrh
+14;14.9991;46.6006;Vič (Dravograd);True;;2370.0;Vič (Dravograd)
+15;13.518;45.9905;Medana;True;;5212.0;Medana
+16;13.6501;45.966;Solkan;True;;5000.0;Solkan
+17;13.6495;45.9303;Šempeter pri Gorici;True;;5290.0;Šempeter pri Gorici
+18;13.5888;45.8544;Opatje Selo;True;;5291.0;Opatje selo
+19;13.8494;45.7084;Sežana;True;;6210.0;Sežana (zahod)
+20;13.4251;46.2445;Logje;True;;5223.0;Logje
+21;13.5523;46.3362;Bovec;True;;5230.0;Bovec
+22;13.5547;46.2462;Sužid;True;;5222.0;Kobarid
+23;13.5617;45.9764;Gornje Cerovo;True;;5211.0;Dolnje Cervo
+24;13.5732;45.5266;Piran;True;;6330.0;Piran
+25;13.6195;46.247;Koseč;True;;5222.0;Koseč
+26;13.624;46.0671;Gorenje Polje;True;;5210.0;Anhovo
+27;13.6284;45.8872;Merljaki;True;;5291.0;Bilje
+28;13.6295;45.8423;Kostanjevica na Krasu;True;;5296.0;Kostanjevica na Krasu
+29;13.6372;45.5274;Jagodje;True;;6310.0;Jagodnje
+30;13.6383;45.4824;Paracag;True;;6333.0;Parecag
+31;13.6865;46.1579;Volčanski Ruti;True;;5220.0;Volčanski Ruti
+32;13.6907;45.978;Ravnica;True;;5251.0;Ravnica
+33;13.6928;45.888;Gradišče nad Prvačino;True;;5297.0;Arčoni
+34;13.7012;45.5282;Semedela;True;;6000.0;Koper
+35;13.7512;46.1586;Modrej;True;;5216.0;Most na Soči
+36;13.7552;45.9787;Trnovo;True;;5252.0;Voglarji
+37;13.7573;45.8887;Zalošče;True;;;
+38;13.7593;45.7988;Volčji Grad;True;;6223.0;Volčji Grad
+39;13.7642;45.5739;Na Logu;True;;6280.0;Ankaran
+40;13.7652;45.5289;Škocjan;True;;6000.0;Triban
+41;13.8091;46.4741;Log;True;;4280.0;Kranjska Gora
+42;13.8217;45.8894;Potoče;True;;5263.0;Potoče
+43;13.8236;45.7994;Hruševica;True;;6222.0;Hruševica
+44;13.8245;45.7545;Dutovlje;True;;6221.0;Dutovlje
+45;13.8283;45.5745;Škofije;True;;6281.0;Tinjan
+46;13.8292;45.5295;Sveti Anton;True;;6276.0;Sv. Anton
+47;13.8861;45.89;Ajdovščina (letališče);True;;5270.0;Ajdovščina
+48;13.887;45.8451;Gaberje;True;;6222.0;Gaberje (Vipava)
+49;13.8888;45.7551;Utovlje;True;;6210.0;Utovlje
+50;13.8897;45.7101;Sežana;True;;6210.0;Sežana (vzhod)
+51;13.9428;46.2955;Bohinjska Češnjica;True;;4267.0;Bohinjska Češnjica
+52;13.9513;45.8457;Vipava;True;;5271.0;Vipava
+53;13.9522;45.8007;Podraga;True;;5272.0;Podnanos
+54;13.9539;45.7107;Brestovica pri Povirju;True;;6210.0;Brestovica pri Povirju
+55;13.9555;45.6208;Rodik;True;;6240.0;Kozina
+56;14.0053;46.431;Zgornje Gorje;True;;4247.0;Zgornje Gorje
+57;14.0101;46.1611;Gorenji Novaki;True;;5282.0;Gorenji Novaki
+58;14.0133;45.9812;Čekovnik;True;;5280.0;Čekovnik
+59;14.0141;45.9362;Zadlog ;True;;5274.0;Zadlog
+60;14.0149;45.8912;Malo Polje;True;;5273.0;Col
+61;14.0181;45.7113;Gabrče;True;;6224.0;Senožeče
+62;14.0204;45.5763;Hotična;True;;6242.0;Povžane
+63;14.0703;46.4315;Jesenice;True;;4270.0;Jesenice
+64;14.0711;46.3866;Mavkuž;True;;4247.0;Spodnje gorje
+65;14.0778;45.9817;Jelični vrh;True;;5280.0;Jelični Vrh
+66;14.0838;45.6219;Kozjane;True;;6243.0;Kozjane
+67;14.0852;45.5319;Obrov;True;;6243.0;Obrov
+68;14.1361;46.3871;Vrba;True;;4274.0;Žirovnica
+69;14.1368;46.3421;Bodešče;True;;4260.0;Ribno (Bled)
+70;14.1403;46.1172;Gorenja vas;True;;4224.0;Gorenja vas (Škofja Loka)
+71;14.1458;45.7573;Orehek;True;;6258.0;Orehek (Postojna)
+72;14.1472;45.6673;Kal;True;;6257.0;Neverke
+73;14.1485;45.5774;Pregarje;True;;6243.0;Pregarje
+74;14.1492;45.5324;Podgrad;True;;6244.0;Podgrad
+75;14.2011;46.3875;Begunje na Gorenjskem ;True;;4275.0;Begunje na Gorenjskem
+76;14.2017;46.3426;Gorica;True;;4240.0;Gorica (Radovljica)
+77;14.2024;46.2976;Kropa;True;;4245.0;Kropa (Brezovica)
+78;14.2037;46.2076;Golica;True;;4227.0;Dolenja vas (Selca)
+79;14.2043;46.1626;Javorje;True;;4224.0;Javorje (Poljane nad Škofjo Loko)
+80;14.205;46.1176;Hotovlja;True;;4223.0;Visoko pri Poljanah (Poljane nad Škofjo Loko)
+81;14.2075;45.9377;Logatec;True;;1370.0;Logatec
+82;14.2082;45.8927;Kalce;True;;1370.0;Kalce
+83;14.2101;45.7578;Stara vas;True;;6230.0;Stara vas (Postojna)
+84;14.2107;45.7128;Selce;True;;6257.0;Slavina
+85;14.2113;45.6678;Parje/Pivka;True;;6257.0;Pivka
+86;14.2126;45.5778;Zarečje;True;;6250.0;Zarečje
+87;14.2667;46.343;Hudo;True;;4290.0;Hudo (Tržič)
+88;14.2673;46.298;Podbrezje;True;;4202.0;Podbrezje
+89;14.2691;46.1631;Gabrovo;True;;4220.0;Gabrovo (Škofja Loka)
+90;14.2708;46.0281;Samotorica;True;;1354.0;Horjul
+91;14.2714;45.9831;Stara Vrhnika;True;;1360.0;Stara Vrhnika (Vrhnika)
+92;14.272;45.9381;Vrhnika-NOB spomenik;True;;1360.0;Vrhnika
+93;14.2761;45.6232;Kortinice;True;;6253.0;Koritnice
+94;14.2772;45.5333;Gornji Zemon;True;;6250.0;Jablanice
+95;14.3316;46.3434;Gozd;True;;4294.0;Gozd (Križe)
+96;14.3322;46.2984;Letenice;True;;4204.0;Golnik
+97;14.3327;46.2534;Okroglo;True;;4202.0;Kranj
+98;14.3333;46.2084;Spodnje Bitnje;True;;4209.0;Spodnje Bitnje
+99;14.3338;46.1635;Suha;True;;4220.0;Škofja Loka
+100;14.3354;46.0285;Podolnica;True;;1354.0;Brezje pri Dobrovi
+101;14.336;45.9835;Blatna Brezovica;True;;1360.0;Blatna Brezovica
+102;14.3365;45.9385;Dol pri Borovnici;True;;1353.0;Borovnica
+103;14.337;45.8935;Pokojišče;True;;1353.0;Pokojišče (Brezovica)
+104;14.3381;45.8036;Podskrajnik;True;;1380.0;Cerknica
+105;14.3971;46.2988;Zgornja Bela;True;;4205.0;Preddvor
+106;14.3976;46.2538;Britof;True;;4000.0;Britof (Kranj)
+107;14.3981;46.2088;Prebačevo;True;;4000.0;Prebačevo (Kranj)
+108;14.3985;46.1638;Podreča;True;;4211.0;Podreča (Medvode)
+109;14.399;46.1188;Žlebe;True;;1215.0;Žlebe (Medvode)
+110;14.3995;46.0738;Gabrje;True;;1356.0;Gabrje (Dobrova)
+111;14.4;46.0289;Brezovica pri Ljubljani;True;;1351.0;Lukovica pri Brezovici
+112;14.4005;45.9839;Notranje Gorice;True;;1357.0;Notranje Gorice
+113;14.401;45.9389;Kamnik pod Krimom;True;;1352.0;Preserje
+114;14.4024;45.8039;Topol pri Begunjah;True;;1382.0;Topol pri Begunjah (begunje pri Cerknici)
+115;14.4029;45.7589;Žarovnica;True;;1384.0;Žerovnica (Cerknica)
+116;14.462;46.2991;Kokra(Potoče);True;;4205.0;Preddvor (Kranj)
+117;14.4624;46.2541;Praprotna Polica;True;;4207.0;Češnjevek (Cerklje na Gorenjskem)
+118;14.4628;46.2091;Voglje;True;;4208.0;Letališče Jožeta Pučnika Ljubljana
+119;14.4633;46.1641;Smlednik;True;;1216.0;Smlednik
+120;14.4637;46.1191;Tacen;True;;1211.0;Zgornje Gameljne
+121;14.4642;46.0742;Ljubljana-Koseze;True;;1000.0;Ljubljana - Koseze
+122;14.4646;46.0292;Ljubljna-Zahod;True;;1000.0;Ljubljana - Vič
+123;14.4676;45.7143;Stari trg pri Ložu;True;;1386.0;Stari trg pri Ložu
+124;14.5273;46.2544;Podženik;True;;4207.0;Poženik (Cerklje na Gorenjskem)
+125;14.5276;46.2094;Potok pri Komendi;True;;1218.0;Komenda
+126;14.528;46.1644;Šinkov Turn;True;;1217.0;Šinkov Turn (Vodice)
+127;14.5284;46.1194;Ljubljna-Črnuče;True;;1231.0;Ljubljana - Črnuče
+128;14.5288;46.0744;Ljubljana-Žale;True;;1000.0;Ljubljana - Bežigrad
+129;14.5292;46.0295;Ljubljana-Rudnik;True;;1000.0;Ljubljana - Rudnik
+130;14.5296;45.9845;Iška Loka;True;;1292.0;Ig
+131;14.5299;45.9395;Ig-Draga;True;;1292.0;Podgozd (Ig)
+132;14.5314;45.7595;Topol pri Begunjah;True;;1385.0;Studenec na Blokah
+133;14.5921;46.2546;Stolnik;True;;1242.0;Stolnik (Stahovica)
+134;14.5924;46.2097;Podgorje;True;;1241.0;Podgorje (Kamnik)
+135;14.5928;46.1647;Radomlje;True;;1235.0;Presarje pri Radomljah
+136;14.5931;46.1197;Dragomelj;True;;1230.0;Dragomelj
+137;14.5934;46.0747;Ljubljana-Polje;True;;1260.0;Snebrje
+138;14.5938;46.0297;Ljubljna-Dobrunje;True;;1261.0;Ljubljana - Dobrunje
+139;14.5941;45.9847;Mali Vrh pri Šmarju;True;;1293.0;Mali Vrh pri Šmarju
+140;14.5944;45.9397;Vino;True;;1291.0;Vino (Škofljica)
+141;14.5957;45.7598;Janeži;True;;1317.0;Janeži (Sodražica)
+142;14.596;45.7148;Mali Log;True;;1318.0;Retje
+143;14.6575;46.1649;Prevoje pri Šentvidu;True;;1225.0;Prevoje pri Šentvidu (Lukovica)
+144;14.6578;46.1199;Dobovlje;True;;1230.0;Sv. Trojica (Domžale)
+145;14.6581;46.0749;Podgrad;True;;1000.0;Dol pri Ljubljani
+146;14.6586;45.9849;Dobje;True;;1290.0;Dobje (Grosuplje)
+147;14.6589;45.9399;Malo Mlačevo;True;;1290.0;Grosuplje
+148;14.6594;45.85;Ponikve;True;;1312.0;Ponikve (Velike Lašče)
+149;14.6597;45.805;Zlati Rep;True;;1316.0;Zlati rep
+150;14.66;45.76;Sinovica;True;;1316.0;Sodražica
+151;14.7214;46.345;Podveža;True;;3334.0;Podveža (Luče)
+152;14.7216;46.3;Podvolovljek;True;;3334.0;Podvolovjek
+153;14.7218;46.255;Bela Peč;True;;1317.0;Bela Peč (Kamnik)
+154;14.722;46.21;Sidol;True;;1219.0;Sidol (Laze v Tuhinju)
+155;14.7223;46.1651;Vinje pri Moravčah;True;;1251.0;Gradišče pri Lukovici
+156;14.7225;46.1201;Zgornji Tuštanj;True;;1251.0;Zgornji Tuštanj (Moravče)
+157;14.7227;46.0751;Zgornja Jevnica;True;;1281.0;Zgornja Jevnica (Kresnice)
+158;14.7232;45.9851;Blečji Vrh;True;;1290.0;Blečji Vrh (Grosuplje)
+159;14.7234;45.9401;Velika Loka;True;;1290.0;Velika Loka (Grosuplje)
+160;14.7238;45.8501;Mala vas;True;;1312.0;Mala vas
+161;14.7243;45.7602;Dolenji Lazi;True;;1310.0;Breg pri Ribnici
+162;14.7245;45.7152;Zadolje;True;;1310.0;Prigorica
+163;14.7863;46.3451;Savina;True;;3333.0;Savina (Ljubno ob Savinji)
+164;14.7865;46.3001;Lenart pri Gornjem Gradu;True;;3342.0;Lenart pri Gornjem gradu
+165;14.7868;46.2102;Liplje;True;;1219.0;Liplje (Laze v Tuhinju)
+166;14.7872;46.1202;Dešen;True;;1281.0;Dešen (Kresnice)
+167;14.7879;45.9402;Malo Hudo;True;;1295.0;Ivančna Gorica
+168;14.788;45.8953;Potok pri Muljavi;True;;1295.0;Muljava
+169;14.8513;46.3452;Ljubno ob Savinji;True;;3333.0;Ljubno ob Savinji
+170;14.8514;46.3002;Bočna;True;;3342.0;Otok (Gornji Grad)
+171;14.8516;46.2103;Špitalič;True;;1221.0;Špitalič (Motnik)
+172;14.852;46.0753;Ponoviče;True;;1282.0;Litija
+173;14.8521;46.0303;Bogenšperk;True;;1275.0;Bogenšperk
+174;14.8523;45.9404;Rodehova vas;True;;1296.0;Radohova vas
+175;14.8526;45.8504;Drašča vas;True;;1303.0;Zagradec
+176;14.853;45.6704;Gorenje ;True;;1332.0;Kočevje
+177;14.8532;45.6254;Dolga vas;True;;1330.0;Dolga vas
+178;14.9159;46.5702;Suhi Vrh;True;;2391.0;Suhi Vrh (ravne na Koroškem)
+179;14.916;46.5252;Kot pri Prevaljah;True;;2391.0;Kot pri Prevaljah
+180;14.9162;46.3453;Dol -Suha;True;;3332.0;Dol - Suha (Rečica pri Savinji)
+181;14.9163;46.3003;Pusto Polje;True;;3331.0;Spodnje Podbrežje (Rečica pri Savinji)
+182;14.9165;46.1654;Orehovica;True;;1411.0;Orehovica (Izlake)
+183;14.9168;45.9404;Gornje Prapreče;True;;8213.0;Veliki Gaber
+184;14.917;45.8504;Dolnji Križ;True;;8260.0;Prapreče (Žužemberk)
+185;14.9811;46.5253;Kotlje;True;;2394.0;Kotlje (Ravne na Koroškem)
+186;14.9812;46.3453;Ljubija;True;;3330.0;Ljubija (Mozirje)
+187;14.9812;46.2554;Stopnik;True;;3305.0;Prekopa (Vransko)
+188;14.9813;46.1204;Družina;True;;1410.0;Zagorje ob Savi
+189;14.9813;45.9854;Tlaka;True;;1274.0;Tlaka (Gabrovka)
+190;14.9813;45.9404;Škovec;True;;8212.0;Škovec (Velika Loka)
+191;14.9813;45.8955;Grmada;True;;8210.0;Grmada (Trebnje)
+192;15.0464;46.6152;Ojstrica;True;;2370.0;Ojstrica (Dravograd)
+193;15.0463;46.5702;Otniški Vrh;True;;2373.0;Šentjanž pri Dravogradu
+194;15.0463;46.5253;Slovenj Gradec;True;;2380.0;Gmajna (Slovenj Gradec)
+195;15.0463;46.4803;Raduše;True;;2381.0;Raduše (Podgorje pri Slovenj Gradcu)
+196;15.0462;46.4353;Ravne;True;;3325.0;Ravne (Šoštanj)
+197;15.0462;46.3903;Šoštanj;True;;3325.0;Šoštanj
+198;15.0462;46.3453;Veliki Vrh;True;;3327.0;Veliki Vrh (Šmartno ob Paki)
+199;15.0461;46.3003;Male Braslovče;True;;3314.0;Male Braslovče
+200;15.0461;46.2553;Gomilsko;True;;3303.0;Gomilsko
+201;15.046;46.1654;Trbovlje;True;;1420.0;Trbovlje
+202;15.046;46.1204;Škofja Riža;True;;1423.0;Škofja Riža (Trbovlje)
+203;15.0459;46.0304;Dole pri Litiji;True;;1273.0;Dole pri Litiji
+204;15.0458;45.9404;Brezovica pri Mirni;True;;8233.0;Brezovica pri Mirni
+205;15.0458;45.8954;Dolenje Ponikve;True;;8210.0;Dolenje Ponikve
+206;15.0456;45.7605;Meniška vas;True;;8350.0;Dolenjske Toplice (Meniška vas)
+207;15.1117;46.6152;Gortina;True;;2366.0;Vrata (Radlje ob Dravi)
+208;15.1115;46.5252;Gradišče ;True;;2380.0;Gradišče (Slovenj Gradec)
+209;15.1114;46.4802;Šmartno pri Slovenj Gradcu;True;;2383.0;Šmartno pri Slovenj Gradcu
+210;15.1113;46.4352;Graška Gora;True;;2381.0;Graška Gora
+211;15.1112;46.3903;Hrastovec;True;;3320.0;Hrastovec (Velenje)
+212;15.1111;46.3453;Kavče;True;;33320.0;Kavče (Velenje)
+213;15.111;46.3003;Založe ;True;;3313.0;Založe
+214;15.1109;46.2553;Šempeter v Savinjski Dolina;True;;3311.0;Šempeter v Savinjski Dolini
+215;15.1107;46.1653;Kal;True;;1431.0;Kal (Hrastnik)
+216;15.1106;46.1203;Krnice;True;;1430.0;Podkraj (Hrastnik)
+217;15.1106;46.0754;Zagrad;True;;1433.0;Zagrad (Radeče)
+218;15.1104;45.9854;Hrastno;True;;8232.0;Šentrupert
+219;15.1102;45.8954;Radna vas;True;;8231.0;Radna vas
+220;15.1101;45.8504;Veliki Kal;True;;8216.0;Šranga
+221;15.11;45.8054;Podgora;True;;8351.0;Letališče Prečna (Novo mesto)
+222;15.1099;45.7604;Gornje Mraščevo;True;;8000.0;Gorenje Mraševo
+223;15.177;46.6151;Muta;True;;2366.0;Muta
+224;15.1768;46.5701;Sveti Primož na Pohorju;True;;2367.0;Sveti Primož na Pohorju
+225;15.1765;46.4801;Razborca;True;;2382.0;Razborca (Slovenj Gradec)
+226;15.1764;46.4352;Završe;True;;2382.0;Šentilj pod Turjakom
+227;15.1761;46.3452;Vinska Gora;True;;3320.0;Vinska Gora (Velenje)
+228;15.1759;46.3002;Pernovo;True;;3310.0;Studence (Žalec)
+229;15.1758;46.2552;Ložnica pri Žalcu;True;;3310.0;Žalec
+230;15.1755;46.1652;Zgornja Rečica;True;;3270.0;Huda Jama (Laško)
+231;15.1753;46.1203;Gore;True;;1431.0;Kopitnik (Hrastnik)
+232;15.1752;46.0753;Radeče;True;;1433.0;Zidani Most
+233;15.1751;46.0303;Srednik;True;;8297.0;Šentjanž
+234;15.1748;45.9403;Sveti Vrh;True;;8230.0;Mokronog (Sv. vrh)
+235;15.1745;45.8503;Golušnik;True;;8000.0;Ždinja vas
+236;15.1743;45.8053;Novo mesto;True;;8000.0;Novo mesto
+237;15.1742;45.7603;Rakovnik pri Birčni vasi;True;;8000.0;Stranska vas
+238;15.1739;45.6704;Preloge;True;;8333.0;Semič
+239;15.1736;45.5804;Dolnja Paka ;True;;8340.0;Črnomelj
+240;15.1735;45.5354;Golek;True;;8343.0;Dragatuš
+241;15.2422;46.615;Spodnja Vižinga;True;;2360.0;Radlje ob Dravi
+242;15.2414;46.435;Paka;True;;2382.0;Paka
+243;15.241;46.3451;Zavrh nad Dobrno;True;;3204.0;Zavrh nad Dobrno
+244;15.2408;46.3001;Pepelno;True;;3201.0;Pepelno (Celje)
+245;15.2406;46.2551;Celje-Ostrožno;True;;3000.0;Celje
+246;15.2404;46.2101;Košnica pri Celju;True;;3000.0;Košnica pri Celju
+247;15.2402;46.1651;Jagoče;True;;3270.0;Laško
+248;15.2398;46.0752;Žirovnica;True;;1434.0;Žirovnica (Zidani Most)
+249;15.2396;46.0302;Mrtovec ;True;;8294.0;Vrhovo
+250;15.2393;45.9402;Otavnik;True;;8295.0;Otavnik (Mokronog)
+251;15.2391;45.8952;Radovlja;True;;8220.0;Radovlja (Šmarjeta)
+252;15.2389;45.8502;Dobovo;True;;8222.0;Lutrško selo (Otočec)
+253;15.2387;45.8052;Potov Vrh;True;;8000.0;Potov vrh
+254;15.2383;45.7152;Jugorje pri Metliki;True;;8331.0;Jugorje pri Metliki
+255;15.2377;45.5803;Zastava;True;;8340.0;Vranoviči
+256;15.3062;46.3899;Vitanje;True;;3205.0;Vitanje (Zreče)
+257;15.3057;46.2999;Ivenca;True;;3212.0;Višnja vas (Vojnik)
+258;15.3055;46.2549;Celje-Leskovec;True;;3202.0;Leskovec (Celje)
+259;15.3052;46.21;Pečovje;True;;3220.0;Pečovje (Celje)
+260;15.305;46.165;Olešče;True;;3270.0;Olešče (Šetrupert)
+261;15.3047;46.12;Gozdec;True;;3270.0;Gozdec (Rimske Toplice)
+262;15.3042;46.03;Droženje;True;;8290.0;Sevnica
+263;15.304;45.985;Preska;True;;8294.0;Laze pri Boštanju
+264;15.3037;45.94;Bučka;True;;8276.0;Dolenje Dole (Škocjan)
+265;15.3035;45.895;Grmovlje;True;;8275.0;Dobruška vas
+266;15.3032;45.8501;Dolenji Maharovec;True;;8310.0;Dolenji Maharovec
+267;15.3023;45.6701;Grabrovec;True;;8330.0;Grabrovec
+268;15.302;45.6251;Primostek;True;;8332.0;Primostek
+269;15.3722;46.5247;Lovrenc na Pohorju;True;;2344.0;Lovrenc na Pohorju
+270;15.3716;46.4347;Planina na Pohorju;True;;3214.0;Rogla
+271;15.3712;46.3897;Loška gora pri Zrečah;True;;3214.0;Loška Gora pri zrečah
+272;15.3709;46.3447;Čretvež;True;;3206.0;Čretvež (Zreče)
+273;15.3706;46.2997;Spodnje Slemene;True;;3222.0;Zgornje Slemene (Šentjur)
+274;15.3703;46.2548;Cerovec;True;;3230.0;Trnovec pri Dramljah
+275;15.37;46.2098;Šentjur-Krajnčica;True;;3230.0;Šentjur
+276;15.3694;46.1198;Blatni Vrh;True;;3273.0;Blatni Vrh (Jurklošter)
+277;15.3691;46.0748;Prapretno;True;;3225.0;Prapretno (Sevnica)
+278;15.3685;45.9848;Ponikve pri Studencu;True;;8293.0;Blanca
+279;15.3682;45.9398;Celine;True;;8274.0;Raka
+280;15.3679;45.8949;Gmajna;True;;8274.0;Mali Koren
+281;15.3676;45.8499;Groblje pri Preklopi;True;;8310.0;Gornja Prekopa
+282;15.3664;45.6699;Drašči;True;;8330.0;Drašiči
+283;15.4366;46.4345;Kot na Pohorju;True;;2317.0;Kot na Pohorju
+284;15.4363;46.3895;Oplotnica;True;;2317.0;Oplotnica (Zreče)
+285;15.4359;46.3445;Slovenske Konjice;True;;3210.0;Slovenske Konjice
+286;15.4355;46.2995;Kraberk;True;;3215.0;Škedenj (Slovenske Konjice)
+287;15.4352;46.2545;Ponikva;True;;3232.0;Ponikva (celje)
+288;15.4348;46.2095;Tratna pri Grobelnem ;True;;3231.0;Tratna pri Grobelnem (Šentjur)
+289;15.4345;46.1646;Voduce;True;;3263.0;Bukovje pri Slivnici
+290;15.4341;46.1196;Loke pri Planini;True;;3225.0;Loke pri Planini
+291;15.4323;45.8946;Pristava pri Leskovcu;True;;8273.0;Veliki Podlog
+292;15.432;45.8496;Slinovce;True;;8311.0;Kostanjevica na Krki
+293;15.5029;46.5691;Spodnji Boč;True;;2352.0;Selnica ob Dravi
+294;15.5025;46.5242;Smolnik;True;;2342.0;Ruše
+295;15.5017;46.4342;Urh;True;;2316.0;Planina pod Šumnikom
+296;15.5013;46.3892;Gladomes;True;;2316.0;Gladomes
+297;15.5009;46.3442;Spodnje Grušovje;True;;3210.0;Tepanje
+298;15.5004;46.2992;Loče;True;;3215.0;Loče (Poljčane)
+299;15.5;46.2543;Vodenovo;True;;3240.0;Vodenovo (Šmarje pri Jelšah)
+300;15.4996;46.2093;Cerovec pri Šmarju;True;;3240.0;Cerovec pri Šmarju
+301;15.4992;46.1643;Loka pri Žusmu;True;;3223.0;Babna Gora (Šentjur)
+302;15.4988;46.1193;Krivica;True;;3262.0;Brezovje pri Šentjurju
+303;15.498;46.0293;Mali Kamen;True;;8281.0;Mali Kamen (Senovo)
+304;15.4976;45.9843;Sremič;True;;8270.0;Brestanica
+305;15.4972;45.9394;Žadovinek;True;;8273.0;Krško
+306;15.4968;45.8944;Hrastje pri Cerkljah;True;;8263.0;Črešnjice pri Cerkljah
+307;15.5691;46.6588;Grušena;True;;2201.0;Špičnik (Zgornja Kungota)
+308;15.5682;46.5688;Bresternica;True;Test;2354.0;
+309;15.5677;46.5239;Hrastje;True;;2341.0;
+310;15.5667;46.4339;Kalše;True;;2315.0;
+311;15.5663;46.3889;Slovenska Bistrica;True;;2310.0;Slovenska Bistrica
+312;15.5658;46.3439;Križni Vrh;True;;2318.0;
+313;15.5653;46.2989;Ljubično;True;;2319.0;
+314;15.5649;46.254;Krtince;True;;3241.0;
+315;15.5644;46.209;Koretno;True;;3240.0;
+316;15.564;46.164;Olimje;True;;3254.0;
+317;15.5635;46.119;Verače;True;;3254.0;
+318;15.563;46.074;Kozje;True;;3260.0;
+319;15.5626;46.029;Poklek pri Podsredi;True;;3257.0;
+320;15.5621;45.984;Oklukova Gora;True;;8256.0;
+321;15.5617;45.9391;Trebež;True;;8253.0;
+322;15.5612;45.8941;Krška vas;True;;8262.0;Krška vas
+323;15.6344;46.6585;Stara Gora pri Šentilju;True;;2212.0;
+324;15.6339;46.6135;Kozjak nad Pesnico;True;;2201.0;
+325;15.6334;46.5685;Maribor;True;;2000.0;Maribor - Center
+326;15.6328;46.5235;Razvanje;True;;2000.0;Maribor - Razvanje
+327;15.6323;46.4785;Čreta;True;;2311.0;
+328;15.6318;46.4335;Požeg;True;;2327.0;
+329;15.6313;46.3886;Leskovec;True;;2331.0;
+330;15.6308;46.3436;Farovec;True;;2318.0;
+331;15.6302;46.2986;Hrastovec pod Bočem;True;;2319.0;
+332;15.6297;46.2536;Irje;True;;3250.0;
+333;15.6292;46.2086;Kamence;True;;3250.0;
+334;15.6277;46.0737;Dekmanca;True;;3256.0;
+335;15.6266;45.9837;Blatno;True;;8254.0;
+336;15.6261;45.9387;Globoko;True;;8254.0;
+337;15.6256;45.8937;Brežice-Čatež;True;;8250.0;Terme Čatež
+338;15.6992;46.6131;Pesniški Dvor;True;;2211.0;
+339;15.6986;46.5681;Vodole;True;;2229.0;
+340;15.698;46.5231;Dogoše;True;;2000.0;Maribor - Dogoš
+341;15.6974;46.4781;Skoke;True;;2204.0;
+342;15.6969;46.4332;Podova;True;;2327.0;
+343;15.6963;46.3882;Pragersko;True;;2331.0;
+344;15.6957;46.3432;Savinsko;True;;2321.0;
+345;15.6946;46.2532;Strmec pri Svetem Florijanu;True;;3252.0;
+346;15.6917;46.0283;Bukovje;True;;8259.0;
+347;15.7651;46.6577;Spodnja Velka;True;;2213.0;
+348;15.7644;46.6127;Zgornje Partinje;True;;2223.0;
+349;15.7638;46.5677;Močna;True;;2231.0;
+350;15.7632;46.5227;Zgornja Korena;True;;2242.0;
+351;15.7625;46.4777;Starše;True;;2205.0;
+352;15.7619;46.4328;Prepolje;True;;2206.0;
+353;15.7613;46.3878;Pleterje;True;;2324.0;
+354;15.7607;46.3428;Slape;True;;2323.0;
+355;15.8304;46.6572;Sveta Ana v Slovenskih goricah;True;;2233.0;
+356;15.8297;46.6122;Zgornji Žerjavci;True;;2230.0;
+357;15.829;46.5672;Lenart v Slovenskih Goricah;True;;2230.0;
+358;15.8283;46.5223;Selce;True;;2232.0;
+359;15.8277;46.4773;Grajenščak;True;;2250.0;
+360;15.827;46.4323;Hajdoše;True;;2288.0;
+361;15.8263;46.3873;Sela;True;;2288.0;
+362;15.8256;46.3423;Dolena;True;;2323.0;
+363;15.8965;46.7017;Črnci;True;;9253.0;
+364;15.8957;46.6567;Lešane;True;;9253.0;
+365;15.895;46.6117;Benedikt;True;;2234.0;
+366;15.8942;46.5667;Sv. Trojica v Slov. goricah;True;;2235.0;
+367;15.8935;46.5218;Trnovska vas;True;;2254.0;
+368;15.8928;46.4768;Zgornji Velovlek;True;;2250.0;
+369;15.892;46.4318;Ptuj;True;;2250.0;Ptuj
+370;15.8913;46.3868;Pobrežje;True;;2284.0;
+371;15.8906;46.3418;Podlehnik;True;;2286.0;
+372;15.9611;46.6562;Police;True;;9250.0;
+373;15.9603;46.6112;Gornji Ivanjci;True;;9245.0;
+374;15.9595;46.5662;Cerkvenjak;True;;2236.0;
+375;15.9579;46.4763;Gabrnik;True;;2256.0;
+376;15.9571;46.4313;Dornava;True;;2252.0;
+377;15.9563;46.3863;Nova vas pri Markovcih;True;;2281.0;
+378;16.0298;46.8355;Sotina;True;;9262.0;Sotina
+379;16.0289;46.7905;Večleslavci;True;;9262.0;
+380;16.0281;46.7456;Krašči;True;;9261.0;
+381;16.0264;46.6556;Male ;True;;9252.0;
+382;16.0255;46.6106;Kapelski Vrh;True;;9252.0;
+383;16.0247;46.5656;Jamna;True;;9244.0;
+384;16.0238;46.5207;Mali Moravšček;True;;9244.0;
+385;16.023;46.4757;Bratislavci;True;;2257.0;
+386;16.0221;46.4307;Zamušani;True;;2272.0;
+387;16.0213;46.3857;Muretinci;True;;2272.0;
+388;16.0205;46.3408;Cirkulane;True;;2282.0;
+389;16.0944;46.7899;Grad;True;;9264.0;
+390;16.0935;46.7449;Bodonci;True;;9265.0;
+391;16.0926;46.7;Murska Sobota;True;;9000.0;
+392;16.0917;46.655;Tišina;True;;9252.0;
+393;16.0908;46.61;Vučja vas;True;;9242.0;
+394;16.0899;46.565;Ključarovci pri Ljutomeru;True;;9242.0;
+395;16.089;46.5201;Radoslavci;True;;9243.0;
+396;16.0872;46.4301;Senešci;True;;2274.0;
+397;16.1599;46.7893;Msčkovci;True;;9202.0;
+398;16.158;46.6993;Murska Sobota;True;;9000.0;
+399;16.157;46.6544;Murska Sobota;True;;9000.0;Murska Sobota
+400;16.156;46.6094;Dokležovje;True;;9231.0;
+401;16.1551;46.5644;Veržej;True;;9241.0;
+402;16.1541;46.5194;Spodnji Kamenščak;True;;9240.0;
+403;16.1522;46.4295;Ormož;True;;2270.0;
+404;16.2264;46.8336;Markovci;True;;9204.0;
+405;16.2254;46.7886;Križevci;True;;9206.0;
+406;16.2233;46.6986;Moravske Toplice;True;;9226.0;
+407;16.2223;46.6537;Murska Sobota;True;;9000.0;
+408;16.2213;46.6087;Beltinci;True;;9231.0;
+409;16.2203;46.5637;Krapje;True;;9241.0;
+410;16.2193;46.5188;Ljutomer;True;;9240.0;
+411;16.2898;46.7429;Prosenjakovci;True;;9207.0;
+412;16.2876;46.653;Gančani;True;;9231.0;
+413;16.2866;46.608;Lipa;True;;9231.0;
+414;16.2855;46.563;Črenšovci;True;;9232.0;
+415;16.2844;46.518;Ljutomer;True;;9240.0;
+416;16.3507;46.5623;Velika Polana;True;;9225.0;
+417;16.4159;46.5615;Gornji Lakoš;True;;9220.0;
+418;16.4811;46.5606;Lendava;True;;9220.0;
+419;14.5124;46.0655;Ljubljana-Bežigrad;False;exSODO napoved;1000.0;Ljubljana
+420;13.624;45.8956;Bilje;False;exSODO napoved;5292.0;Nova Gorica
+421;13.5538;46.3317;Bovec-Letališče;False;exSODO napoved;5230.0;Bovec
+422;15.2259;46.2366;Celje-Medlog;False;exSODO napoved;3000.0;Celje
+423;14.2355;45.5531;Ilirska Bistrica;False;exSODO napoved;6250.0;Ilirska Bistrica
+424;14.6119;46.2257;Kamnik;False;exSODO napoved;1241.0;Kamnik
+425;15.5131;45.9399;Krško;False;exSODO napoved;8270.0;Krško
+426;13.7246;45.5481;Koper;False;exSODO napoved;6000.0;Koper
+427;14.1718;46.362;Letališče Lesce;False;exSODO napoved;4248.0;Letališče Lesce
+428;15.6439;46.2409;Rogaška Slatina;False;exSODO napoved;3250.0;Rogaška Slatina
+429;14.2032;45.9077;Logatec;False;exSODO napoved;1370.0;Logatec
+430;15.8492;46.4197;Ptuj;False;exSODO napoved;2250.0;Ptuj
+431;13.9624;45.8476;Vipava;False;exSODO napoved;5271.0;Vipava
+432;14.9986;46.1323;Zagorje ob Savi;False;exSODO napoved;1410.0;Zagorje
+433;15.6818;46.4797;Letališče Edvarda Rusjana Maribor;False;exSODO napoved;2312.0;Maribor
+434;16.1913;46.6521;Murska Sobota;False;exSODO napoved;9000.0;Murska Sobota

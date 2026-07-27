@@ -1,8 +1,14 @@
 name: Open-Meteo backfill
 
-# Ročni zagon - kliknite "Run workflow" v zavihku Actions na GitHubu
+# Sprozi se avtomatsko vsakih 6 ur, ali rocno prek "Run workflow" v zavihku Actions
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *'
+
+concurrency:
+  group: openmeteo-backfill
+  cancel-in-progress: false
 
 jobs:
   backfill:
