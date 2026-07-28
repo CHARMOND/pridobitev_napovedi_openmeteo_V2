@@ -18,7 +18,7 @@ cache_session = requests_cache.CachedSession('.cache', expire_after=3600)
 if not VERIFY_SSL:
     cache_session.verify = False
 
-retry_session = retry(cache_session, retries=8, backoff_factor=1)
+retry_session = retry(cache_session, retries=2, backoff_factor=0.5)
 openmeteo = openmeteo_requests.Client(session=retry_session)
 
 # --- Zajem koordinat iz CSV datoteke -------------------------------------
@@ -34,7 +34,7 @@ output_dir = "output_hystorical_api"
 os.makedirs(output_dir, exist_ok=True)
 
 # Velikost paketa (50 lokacij naenkrat prepreči URL napako 414)
-BATCH_SIZE = 100
+BATCH_SIZE = 50
 
 # --- Pošiljanje zahtev v paketih ----------------------------------------
 for start_idx in range(0, len(coords_df), BATCH_SIZE):
@@ -48,7 +48,7 @@ for start_idx in range(0, len(coords_df), BATCH_SIZE):
         "latitude": ",".join(map(str, latitudes)),
         "longitude": ",".join(map(str, longitudes)),
         "start_date": "2025-01-01",
-        "end_date": "2026-07-22",
+        "end_date": "2026-01-01",
         "hourly": ["temperature_2m", "rain", "shortwave_radiation"],
         "models": models_list,
     }
@@ -61,6 +61,7 @@ for start_idx in range(0, len(coords_df), BATCH_SIZE):
     for attempt in range(5):
         try:
             responses = openmeteo.weather_api(url, params=params)
+            print(f"Uspešno pridobljeno za paket {start_idx}-{start_idx + len(chunk_df)}.")
             break
         
         except Exception as e:
@@ -109,5 +110,5 @@ for start_idx in range(0, len(coords_df), BATCH_SIZE):
 
         file_name = f"{output_dir}/hourly_data_ID{uniq_id}_{req_lat}_{req_lon}_{model_name}.csv"
         hourly_dataframe.to_csv(file_name, index=False)
-    time.sleep(5)  # Počakamo 1 sekundo, da ne preobremenimo strežnika
+    time.sleep(1)  # Počakamo 1 sekundo, da ne preobremenimo strežnika
 print("Vsi paketi so bili uspešno obdelani!")
