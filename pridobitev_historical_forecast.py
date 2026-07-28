@@ -36,7 +36,7 @@ os.makedirs(output_dir, exist_ok=True)
 BATCH_SIZE = 100
 
 # --- Pošiljanje zahtev v paketih ----------------------------------------
-for start_idx in range(300, len(coords_df), BATCH_SIZE):
+for start_idx in range(0, len(coords_df), BATCH_SIZE):
     chunk_df = coords_df.iloc[start_idx : start_idx + BATCH_SIZE]
     
     latitudes = chunk_df["latitude"].tolist()
