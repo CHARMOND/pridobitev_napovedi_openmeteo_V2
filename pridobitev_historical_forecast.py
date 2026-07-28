@@ -47,8 +47,8 @@ for start_idx in range(0, len(coords_df), BATCH_SIZE):
     params = {
         "latitude": ",".join(map(str, latitudes)),
         "longitude": ",".join(map(str, longitudes)),
-        "start_date": "2022-01-01",
-        "end_date": "2022-12-31",
+        "start_date": "2025-01-01",
+        "end_date": "2026-07-22",
         "hourly": ["temperature_2m", "rain", "shortwave_radiation"],
         "models": models_list,
     }
